@@ -6,7 +6,7 @@ This project is structured into five classes:
 ATM.java: Main class that runs the program and handles user input.
 User.java: Represents a bank customer with ID, password, balance and transaction history.
 Transaction.java: Represents a single transaction (deposit, withdraw, transfer).
-Bank.java: Acts as the "database" of users and handles authentication.
+Bank.java: Acts as the database of users and handles authentication.
 ATMOperations.java: Contains the logic for deposits, withdrawals, transfers, and history.
 
 Tools & Technologies Used: Java, IntelliJ IDEA
