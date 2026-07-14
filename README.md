@@ -11,8 +11,9 @@ ATMOperations.java: Contains the logic for deposits, withdrawals, transfers, and
 
 Tools & Technologies Used: Java, IntelliJ IDEA
 
-What have i learned: The importance of data structures using HashMap and an ArrayList to store trnsaction history. How to implement authentication logic by checking user ID and Password. Writing a clean and commenetd code to make it easier to understand.
-What Can be improved: I could improve this project by storing data in a database(MySQL) instaed of hardcoding it, and making this project a full stack project have back-end using spring-boot and front-end using Vue.Js.
+What have i learned: The importance of data structures using HashMap and an ArrayList to store trnsaction history. How to implement authentication logic by checking user ID and Password. Writing a clean and commented code to make it easier to understand.
+
+What Can be improved: I could improve this project by storing data in a database(MySQL) instead of hardcoding it and making this project a full stack project have back-end using spring-boot and front-end using Vue.Js.
 
 How this project works: The progarm starts and ask for User ID and Password of a user.
 The Bank class then checks if the credentials provided are correct, If login is successful the user then sees the welcome message. Then the user chooses an option whether to withdraw, deposit, transfer, transaction history and exit once done. The ATMOperation class execute the chosen action and updates the user object. Transactions are recorded in the transaction history for future references. 
