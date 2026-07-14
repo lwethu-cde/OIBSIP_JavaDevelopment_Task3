@@ -10,6 +10,7 @@ Bank.java: Acts as the database of users and handles authentication.
 ATMOperations.java: Contains the logic for deposits, withdrawals, transfers, and history.
 
 Tools & Technologies Used: Java, IntelliJ IDEA
+
 What have i learned: The importance of data structures using HashMap and an ArrayList to store trnsaction history. How to implement authentication logic by checking user ID and Password. Writing a clean and commenetd code to make it easier to understand.
 What Can be improved: I could improve this project by storing data in a database(MySQL) instaed of hardcoding it, and making this project a full stack project have back-end using spring-boot and front-end using Vue.Js.
 
