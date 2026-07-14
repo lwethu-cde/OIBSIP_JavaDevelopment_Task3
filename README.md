@@ -1,4 +1,4 @@
-# OIBSIP_JavaDevelopment_Task3
+# ATM Interface
 Project Overview: This project is a console-based ATM simulation built in Java. The system allows a user to log in with a User ID and password once authenticated they can perform basic ATM operations such as:
 
 Viewing Transaction History
